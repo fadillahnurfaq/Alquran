@@ -1,6 +1,6 @@
 # alquran
 
-A new Flutter project.
+Link Aplikasi : https://drive.google.com/file/d/1DY0vD9xObcRJcT5iMkhE3tQsRUyM9kmG/view?usp=share_link
 
 # Gambar aplikasi
 
